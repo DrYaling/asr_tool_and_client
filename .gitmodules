@@ -4,3 +4,6 @@
 [submodule "UnrealRustInterface"]
 	path = UnrealRustInterface
 	url = https://github.com/DrYaling/UnrealRustInterface.git
+[submodule "CppBuilder"]
+	path = CppBuilder
+	url = https://github.com/DrYaling/UnrealObject2RustBuilder.git
