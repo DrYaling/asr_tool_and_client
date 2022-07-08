@@ -1,8 +1,6 @@
 [submodule "UnrealRustApi"]
 	path = UnrealRustApi
 	url = https://github.com/DrYaling/UnrealRustApi.git
-	branch = master
 [submodule "UnrealRustInterface"]
 	path = UnrealRustInterface
 	url = https://github.com/DrYaling/UnrealRustInterface.git
-	branch = master
